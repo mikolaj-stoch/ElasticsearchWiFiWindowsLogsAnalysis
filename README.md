@@ -31,7 +31,7 @@ Just run appropriate .bat files.
 ## Example dashboard made in Kibana
 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Example dashboard](https://github.com/miko083/ElasticsearchWiFiWindowsLogsAnalysis/blob/master/images/dashboard.jpg)
 
 ## Example commands for Kibana DevTool
 

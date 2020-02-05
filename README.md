@@ -13,14 +13,14 @@ What things you need to install:
 
 ### Installing
 
-For ElasticSearch and Kibana just unzip archives.
+For ElasticSearch and Kibana just unzip archives.  
 For WinlogBeat follow: [installation guide](https://www.elastic.co/guide/en/beats/winlogbeat/current/winlogbeat-installation.html)
 
 
 ## Running
 
 ### WinlogBeat
-1.Put winlogbeat.yml in winlogbeat folder
+1.Put winlogbeat.yml in winlogbeat folder  
 2. Make sure that winlogbeat deamon is running
 
 ### ElasticSearch and Kibana

@@ -96,3 +96,8 @@ GET winlogbeat-7.5.1/_search
 ```
 DELETE winlogbeat-7.5.1/_doc/2137
 ```
+## Authors
+
+* Mikołaj Badura
+* [Antoni Jankowski](https://gitlab.com/anthonio)
+* [Mikołaj Stoch](https://github.com/miko083)
